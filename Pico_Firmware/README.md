@@ -1,4 +1,4 @@
-Raspberry Pi Pico Firmware
+# Raspberry Pi Pico Firmware
 
 This directory contains the firmware source files for the Raspberry Pi Pico (RP2040) component of TouchAuth, a biometric FIDO2 security key project.
 
