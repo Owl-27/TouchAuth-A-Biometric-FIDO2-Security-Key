@@ -12,14 +12,6 @@ Files
 - `tusb_config.h` – Configures the TinyUSB device stack.
 - `pico_fido.uf2` – Precompiled firmware binary, if included.
 
-Technologies
-
-- Raspberry Pi Pico (RP2040)
-- C
-- TinyUSB
-- USB HID
-- Embedded systems development
-
 Purpose
 
 The Pico component provides the USB device interface for the TouchAuth project. Refer to the main project README for the overall system architecture and integration details.
