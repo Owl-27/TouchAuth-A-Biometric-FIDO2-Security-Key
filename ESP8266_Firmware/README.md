@@ -26,3 +26,5 @@ Update the Wi-Fi access point settings, GPIO assignments, and sensor configurati
 ## Hardware Integration
 
 The TouchAuth prototype integrates an ESP8266, an R307 fingerprint sensor, and a Raspberry Pi Pico (RP2040) using jumper-wire connections. The ESP8266 handles fingerprint verification, while the Pico provides the USB interface. The inter-board signaling and complete authentication workflow depend on the implemented firmware and must be validated through testing.
+
+
